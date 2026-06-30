@@ -23,7 +23,11 @@
 ## Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,supabase,cloudflare,stripe,git&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,tailwind,nodejs,supabase,postgres,cloudflare,stripe,git&theme=dark" alt="Tecnologias" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/IA%20/%20OCR-6C47FF?style=flat-square" alt="IA / OCR" />
 </p>
 
 ## Projetos em destaque
