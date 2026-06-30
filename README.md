@@ -1,32 +1,30 @@
 <h1 align="center">Alisson Mendes</h1>
-<p align="center">Estudante de TI · Foco em Inteligência Artificial · Lógica de Programação</p>
+<p align="center">Desenvolvedor em formação · Foco em Inteligência Artificial · Lógica de Programação</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Foco-Intelig%C3%AAncia%20Artificial-6C47FF?style=flat-square" alt="Foco em IA" />
   <img src="https://img.shields.io/badge/Local-S%C3%A3o%20Paulo,%20BR-2D9CDB?style=flat-square" alt="São Paulo" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alisson-mendes-416270404/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/_mendesxd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
 ---
 
 ## Sobre mim
 
-- Estudante de TI aprimorando conhecimentos de forma contínua, com **foco em Inteligência Artificial**.
+- **Desenvolvedor em formação**, aprimorando conhecimentos de forma contínua, com **foco em Inteligência Artificial**.
 - Base sólida em **lógica de programação** e desenvolvimento de aplicações web.
 - Gosto de **aplicar IA em projetos reais** — como leitura de documentos via OCR com visão computacional.
 - Aprendo construindo: meus repositórios são projetos completos, do back-end ao deploy.
 
 ## Tecnologias e ferramentas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,supabase,cloudflare,stripe,git&theme=dark" alt="Tecnologias" />
+</p>
 
 ## Projetos em destaque
 
@@ -44,5 +42,5 @@
 
 ## Contato
 
+- LinkedIn: [Alisson Mendes](https://www.linkedin.com/in/alisson-mendes-416270404/)
 - Instagram: [@_mendesxd](https://www.instagram.com/_mendesxd/)
-<!-- Adicione aqui: LinkedIn e e-mail profissional -->
