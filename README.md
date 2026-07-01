@@ -33,13 +33,6 @@
 | [controle-de-estoque-flow](https://github.com/mendesxdxd/controle-de-estoque-flow) | Sistema web de controle de estoque com autenticação, relatórios e exportação. **Em produção:** [flowestoque.com.br](https://www.flowestoque.com.br) | Next.js · Supabase · Stripe |
 | [ocr-form-filler](https://github.com/mendesxdxd/ocr-form-filler) | Extensão de navegador que preenche cadastros automaticamente lendo documentos via **OCR com Google Gemini**, usando Cloudflare Worker como proxy seguro. | JavaScript · Cloudflare Workers · Gemini |
 
-## Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mendesxdxd&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesxdxd&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="160" />
-</p>
-
 ## Contato
 
 - LinkedIn: [Alisson Mendes](https://www.linkedin.com/in/alisson-mendes-416270404/)
