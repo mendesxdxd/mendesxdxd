@@ -1,8 +1,8 @@
 <h1 align="center">Alisson Mendes</h1>
-<p align="center">Desenvolvedor em formação · Foco em Inteligência Artificial · Lógica de Programação</p>
+<p align="center">Desenvolvedor em Formação | Análise e Desenvolvimento de Sistemas</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-Intelig%C3%AAncia%20Artificial-6C47FF?style=flat-square" alt="Foco em IA" />
+  <img src="https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-6C47FF?style=flat-square" alt="Lógica de Programação" />
   <img src="https://img.shields.io/badge/Local-S%C3%A3o%20Paulo,%20BR-2D9CDB?style=flat-square" alt="São Paulo" />
 </p>
 
@@ -15,10 +15,9 @@
 
 ## Sobre mim
 
-- **Desenvolvedor em formação**, desenvolvendo **práticas de programação** e **lógica de programação** de forma contínua.
-- **Foco em Inteligência Artificial** e em aplicar o que aprendo em projetos reais.
-- Já apliquei IA em projeto real — leitura de documentos via **OCR com visão computacional**.
-- Aprendo construindo: meus repositórios são projetos completos, do back-end ao deploy.
+**Olá! Bem-vindo ao meu perfil!**
+
+Me chamo Alisson, tenho 22 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** na UNIP. Desenvolvedor em formação, sou **dedicado, curioso** e valorizo o **trabalho em equipe**. Estou sempre aprimorando minha lógica de programação e gosto de aprender construindo — meus repositórios são projetos completos, do back-end ao deploy.
 
 ## Tecnologias e ferramentas
 
