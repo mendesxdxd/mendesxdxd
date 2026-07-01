@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alisson-mendes-416270404/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/_mendesxd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/alisson-mendes-416270404/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"
 
 ---
 
@@ -47,4 +45,3 @@
 ## Contato
 
 - LinkedIn: [Alisson Mendes](https://www.linkedin.com/in/alisson-mendes-416270404/)
-- Instagram: [@_mendesxd](https://www.instagram.com/_mendesxd/)
