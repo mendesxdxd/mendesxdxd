@@ -21,8 +21,20 @@ Me chamo Alisson, tenho 22 anos e sou estudante de **Análise e Desenvolvimento 
 
 ## Tecnologias e ferramentas
 
+<p align="center"><b>Uso nos projetos</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,postgres,react,nextjs,vscode,git,github&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres&theme=dark" alt="TypeScript, Node.js, React/Next.js, PostgreSQL" />
+</p>
+
+<p align="center"><b>Estudando</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java, Python" />
+</p>
+
+<p align="center"><b>Ferramentas</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" height="48" />
 </p>
 
 ## Projetos em destaque
